@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/commons-math3-3.6.1/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/commons-math3-3.6.1/commons-math3-3.6.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/commons-math3-3.6.1/commons-math3-3.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/commons-math3-3.6.1/commons-math3-3.6.1-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/commons-math3-3.6.1/commons-math3-3.6.1-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/commons-math3-3.6.1/commons-math3-3.6.1-tools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/slf4j-1.7.25/integration/lib/slf4j-api-2.0.99.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/neuroph-2.93b/neuroph-core-2.93.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/neuroph-2.93b/libs/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/neuroph-2.93b/libs/ajt-2.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/neuroph-2.93b/libs/android-x.x.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/neuroph-2.93b/libs/javaml-0.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/neuroph-2.93b/libs/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoli/Desktop/java libraries/neuroph-2.93b/libs/weka.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
