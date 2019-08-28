@@ -1,4 +1,4 @@
-# MusicGeneraRecognition
+# Music Genera Recognition ML
 This is one of my first vetures into machine learning, back when i thought 5 datapoints will be a large enough dataset to train a network. Ah simpler times. I found it lying arround on my old computer and im only posting it for the sake of prosperity. If you are looking for a working machine learning algorithm for music genera recognition, this aint it.
 
 Idea : use images of music spectrograms to train a network to recognise music genera
